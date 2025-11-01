@@ -1,0 +1,21 @@
+input[type=text]{
+    width: 150px;
+    height: fit-content;
+    padding: 0.5rem;
+}
+
+input[type=number]
+{
+    width: 80px;
+    height: fit-content;
+    padding: 0.5rem;
+}
+.married-box{
+    display: flex;
+    align-items: center;
+}
+
+.detail-card{
+    background-color: rgb(169, 169, 169);
+    padding: 1rem;
+}
